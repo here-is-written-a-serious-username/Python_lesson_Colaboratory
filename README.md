@@ -1,1 +1,1 @@
-# Python_homework-1_Colaboratory
+# Python_homework_Colaboratory
